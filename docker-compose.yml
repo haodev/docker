@@ -1,0 +1,8 @@
+front:
+
+api:
+
+back:
+
+mongo:
+	image: mongo
